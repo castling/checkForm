@@ -1,16 +1,15 @@
 # checkForm
 
 ## Description:
-formデータの簡易チェックを行うjsライブラリ。
-チェック項目は,
+simple form checker JS library.
 
-* 必須
-* 最大文字数
-* 最小文字数
+supported items:
+
+* required
+* number of minimum string count
+* number of maximum string count
 * Email
-* 関数チェック
-
-に対応。
+* validator function
 
 ## Installation
 

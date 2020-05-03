@@ -1,7 +1,16 @@
 # checkForm
 
 ## Description:
-formデータの簡易チェックを行うjsライブラリ
+formデータの簡易チェックを行うjsライブラリ。
+チェック項目は,
+
+* 必須
+* 最大文字数
+* 最小文字数
+* Email
+* 関数チェック
+
+に対応。
 
 ## Installation
 
@@ -27,7 +36,7 @@ checkForm('a@b',{
 ```
 
 # API
-
+=======
 ```javascript
 checkForm(value,options)
 ```

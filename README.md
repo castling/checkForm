@@ -27,7 +27,7 @@ checkForm('a@b',{
 ```
 
 # API
-=======
+
 ```javascript
 checkForm(value,options)
 ```

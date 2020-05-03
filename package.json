@@ -1,0 +1,20 @@
+{
+  "name": "checkForm",
+  "version": "1.0.0",
+  "description": "formデータの簡易チェックを行うjsライブラリ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/castling/checkForm.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/castling/checkForm/issues"
+  },
+  "homepage": "https://github.com/castling/checkForm#readme"
+}

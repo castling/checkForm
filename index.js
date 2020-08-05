@@ -24,7 +24,7 @@ export default (value,rules) => {
       }
     }
     if( rule.email ) {
-      if( !mailCheck(value) ) {
+      if( value && value.length && !mailCheck(value) ) {
         res.errors.push(rule.message)
         res.valid = false
         return res
